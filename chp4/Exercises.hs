@@ -82,3 +82,9 @@ id' = (\x -> x)
 -- 3.
 fst' :: (a, b) -> a
 fst' (a, _) = a
+
+-- Match fuction names to their types
+-- 1. c)
+-- 2. b)
+-- 3. a)
+-- 4. d)
